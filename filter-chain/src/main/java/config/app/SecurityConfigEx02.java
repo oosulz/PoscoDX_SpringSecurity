@@ -1,4 +1,4 @@
-package config.web;
+package config.app;
 
 import filter.SecurityFilterEx01;
 import filter.SecurityFilterEx02;
